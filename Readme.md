@@ -1,4 +1,4 @@
->> ### Potato_Dieases_Classification
+>> ### Potato__Diseases_Classification
 
 
 In this project, I created a convolutional neural network that can predict whether a plant is infected with a disease. I built, trained, and tested this classification model using various layers and other hyperparameters. For this project, I will be utilizing Tensorflow and Keras. I began by uploading the dataset to Google Colab using Google Drive and then viewing the photos. When working with any form of the dataset, normalization is a critical step. Following that, I constructed a CNN model, which is then used to predict plant illnesses using the image supplied to the model. This model is extremely useful since it can be used by various agricultural enterprises and farmers to boost production and reduce crop waste due to illness.
